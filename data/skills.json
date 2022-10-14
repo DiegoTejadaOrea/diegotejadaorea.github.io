@@ -1,0 +1,17 @@
+[
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[ "Java","git","linux","javascript" ]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[ "MySQL","Wordpress"]
+  },
+  {
+      "grouping":"Data Management",
+      "skills":[
+        {"name":"Microsoft SQL Server","icon":"msql_server"},
+        {"name":"Oracle","icon":"database"}
+      ]
+  }
+]

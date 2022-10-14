@@ -1,0 +1,45 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+title = "Diego Tejada Orea"
+baseURL = "dto"
+theme = "resume"
+languageCode = "es-es"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Ctra Huesca Km 4,4 s/n Urbanización Los Pinos"
+email = "tejadaoreadiego@gmail.com"
+firstName = "Diego"
+lastName = "Tejada"
+phone = "+34 655 48 01 33"
+profileImage = "![Diego] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYNekebt8PiRGyE-tTYuPAhgADzk6iN1wVJrnK3F-TVg&s)"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = true
+showQr = false
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/diego-tejada-orea-821378195/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/diegotejadaorea/"
+name = "GitHub"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
