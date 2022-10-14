@@ -1,7 +1,7 @@
 ---
 title: Publications
-date: 2020-01-07T16:47:30.077Z
-link: NA
+date: 2021-02-06
+
 image: /img/organicdevops.webp
 description: NA
 weight: 10
@@ -15,4 +15,4 @@ This page represents the landing page for "publications" section. It is also sho
 
 \-->
 
-A collection of articles, presentations or talks, most likely on Culture and DevOps, because let's admit it, they are one in the same ;)
+Los artículos que redacte durante mi estancia en las prácticas de la cámara del comercio de Zaragoza.
