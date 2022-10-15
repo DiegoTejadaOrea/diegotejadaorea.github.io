@@ -1,7 +1,7 @@
 ---
 title: Publications
 date: 2021-02-06
-
+link: NA
 image: /img/organicdevops.webp
 description: NA
 weight: 10

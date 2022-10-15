@@ -8,7 +8,7 @@ languageCode = "es-es"
 PygmentsCodeFences = true
 PygmentsCodeFencesGuessSyntax = true
 PygmentsStyle = "monokai"
-enableGitInfo = false
+enableGitInfo = true
 
 [params]
 address = "Ctra Huesca Km 4,4 s/n Urbanización Los Pinos"
@@ -19,8 +19,8 @@ phone = "+34 655 48 01 33"
 profileImage = "![Diego] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYNekebt8PiRGyE-tTYuPAhgADzk6iN1wVJrnK3F-TVg&s)"
 showEducation = true
 showExperience = true
-showOpenSource = false
-showProjects = false
+showOpenSource = true
+showProjects = true
 showPublications = true
 showQr = false
 showSkills = true

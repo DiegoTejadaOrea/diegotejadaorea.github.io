@@ -13,7 +13,7 @@ email = "tejadaoreadiego@gmail.com"
 firstName = "Diego"
 lastName = "Tejada"
 phone = "+34 655 48 01 33"
-profileImage = "![Diego] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYNekebt8PiRGyE-tTYuPAhgADzk6iN1wVJrnK3F-TVg&s)"
+profileImage = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYNekebt8PiRGyE-tTYuPAhgADzk6iN1wVJrnK3F-TVg&s"
 showEducation = true
 showExperience = true
 showOpenSource = false
