@@ -11,8 +11,8 @@ sitemap:
 ---
 <!--
 
-This page represents the landing page for "publications" section. It is also shown under the homepage header for "publications". It should be therefore relatively short and sweet.
+Esta pagina es la principal de "publicaciones". Donde se muestran las publiaciones con los respectivos links.
 
 \-->
 
-Los artículos que redacte durante mi estancia en las prácticas de la cámara del comercio de Zaragoza.
+Los artículos que redacté durante mi estancia en las prácticas de la cámara del comercio de Zaragoza.

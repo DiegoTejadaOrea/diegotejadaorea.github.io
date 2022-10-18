@@ -24,15 +24,13 @@
         "school":"[CPIFP Los Enlaces](https://cpilosenlaces.com/)",
         "degree":"Sistemas Microinfomáticos y Redes",
         "range":"2019 - 2021",
-        "matters 1":[
+        "matters":[
             "Sistemas operativos monopuestos",
             "Montaje y mantenimiento de equipos",
             "Redes locales",
             "Ofimatica",
             "Empresa e iniciativa emprendedora",
-            "Ingles"
-        ],
-        "matters 2":[
+            "Ingles",
             "Aplicaciones web",
             "Seguridad informatica",
             "Servicios en red",
@@ -44,15 +42,13 @@
         "school":"[CPIFP Los Enlaces](https://cpilosenlaces.com/)",
         "degree":"Desarrollo de Aplicaiones Web",
         "range":"2021 - 2023",
-        "matters 1":[
+        "matters":[
             "Programación",
             "Desarrollo de interfaces",
             "Base de datos",
             "Sistemas informáticos",
             "Empresa e iniciativa emprendedora",
-            "Lenguaje de marcas y sistemas de gestión de información"
-        ],
-        "matters 2":[
+            "Lenguaje de marcas y sistemas de gestión de información",
             "Desarrollo web en entorno cliente",
             "Desarrollo web en entorno servidor",
             "Despliegue de apicaciones web",

@@ -1,6 +1,6 @@
 ---
 title: "Home"
-date: 2018-02-10T18:56:13-05:00
+date: 2022-10-18
 sitemap:
   priority : 1.0
 
@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
+Desarrollador web en curso que busca ampliar sus conocimientos.   Experiencia trabajando en la Cámara del Comercio de Zaragoza. Ahora mismo tengo 19 años, este año termino el grado superior de DAW y mi intención es seguir estudiando, ASIR, DAM, especialización en ciber seguridad... o trabajar, según las posibilidades que tenga.
