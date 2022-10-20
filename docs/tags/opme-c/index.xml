@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OPME-c on Diego Tejada Orea</title>
+    <link>/tags/opme-c/</link>
+    <description>Recent content in OPME-c on Diego Tejada Orea</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/opme-c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Las matriculaciones en Aragón siguen mejorando</title>
+      <link>/publications/matriculaciones-aragon/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/matriculaciones-aragon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preguntas frecuentes de los principiantes en la movilidad eléctrica</title>
+      <link>/publications/preguntas-absicas-movilidad-electrica/</link>
+      <pubDate>Wed, 02 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/preguntas-absicas-movilidad-electrica/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

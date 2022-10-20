@@ -3,56 +3,27 @@
         "school":"[IES Clara Campoamor Rodriquez](https://iesclaracampoamorrodriguez.es/index.php/nuestrocentro/historia/un-poco-de-historia)",
         "degree":"Educación Secundaria Obligatoria",
         "range":"2015 - 2018",
-        "matters":[
-            "Matemáticas",
-            "Física y Química",
-            "Biología y Geología",
-            "Inglés",
-            "Lengua Castellana y Literatura",
-            "Historia del Arte",
-            "Educación Física",
-            "Tecnología",
-            "Informática",
-            "Valores éticos y ciudadanos",
-            "Educación Plástica y Visual",
-            "Música",
-            "Educación para la Ciudadanía",
-            "Frances"
-        ]
+        "matters":[ 
+                "Matemáticas",
+                "nFísica y Química"
+            ]
+        
+        
+        
     },
     {
         "school":"[CPIFP Los Enlaces](https://cpilosenlaces.com/)",
         "degree":"Sistemas Microinfomáticos y Redes",
         "range":"2019 - 2021",
-        "matters":[
-            "Sistemas operativos monopuestos",
-            "Montaje y mantenimiento de equipos",
-            "Redes locales",
-            "Ofimatica",
-            "Empresa e iniciativa emprendedora",
-            "Ingles",
-            "Aplicaciones web",
-            "Seguridad informatica",
-            "Servicios en red",
-            "Sistemas operativos en red",
-            "Formacion en centro de trabajo"
-        ]
+        "matters":"Sistemas operativos monopuestos \nMontaje y mantenimiento de equipos"
+        
     },
     {
         "school":"[CPIFP Los Enlaces](https://cpilosenlaces.com/)",
         "degree":"Desarrollo de Aplicaiones Web",
         "range":"2021 - 2023",
-        "matters":[
-            "Programación",
-            "Desarrollo de interfaces",
-            "Base de datos",
-            "Sistemas informáticos",
-            "Empresa e iniciativa emprendedora",
-            "Lenguaje de marcas y sistemas de gestión de información",
-            "Desarrollo web en entorno cliente",
-            "Desarrollo web en entorno servidor",
-            "Despliegue de apicaciones web",
-            "Diseño de interfaces web"
-        ]
+        "matters":"Programación Desarrollo de interfaces"
+           
+        
     }
 ]
