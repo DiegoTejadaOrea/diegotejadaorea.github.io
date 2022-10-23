@@ -1,3 +1,4 @@
+        
         <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
           <div class="my-auto">
             <h2 class="mb-5">Education</h2>
@@ -8,7 +9,14 @@
                   <div class="subheading mb-3">{{ .degree }}</div>
                   <div>{{ .major | markdownify }}</div>
                   <p>{{ .notes | markdownify }}
-                    <div>{{ .matters }}</div>
+                    <ul>
+                      <li>
+                        {{  .matters }}
+                        
+                      </li>
+                    </ul>
+                  </p>  
+                    
                 </div>
                 <div class="resume-date text-md-right">
                   <span class="text-primary">{{ .range }}</span>
